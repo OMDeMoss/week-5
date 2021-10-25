@@ -1,0 +1,28 @@
+.timer-container {
+    margin-top: 100px;
+}
+
+.counter-title h2 {
+    background:lightblue;
+    color: #fff;
+    font-size: 28px;
+    font-weight: 600;
+    margin: 0;
+    padding: 10px;
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+}
+
+.clock-container {
+    background: #fff;
+    border: 1px solid lightblue;
+    color:lightblue;
+    font-size: 60px;
+    font-weight: 600;
+    padding: 20px;
+    min-height: 130px;
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+}
